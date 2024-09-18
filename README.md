@@ -25,15 +25,16 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 ## Technologies Used
 Keras
 Tensor flow
-- library - version 3.0
+  - library - version 3.0
 Augmentor
-- library - version 0.2.10
+  - library - version 0.2.10
+
 Matplotlib
-- library
+
 seaborn
-- library
+
 PIL
-- library
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 ### Conclusions
