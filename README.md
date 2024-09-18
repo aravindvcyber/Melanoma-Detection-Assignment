@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Melanoma-Detection-Assignment
+> Melanoma-Detection-Assignment using CNN
 
 
 ## Table of Contents
